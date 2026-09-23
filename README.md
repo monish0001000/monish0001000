@@ -4,30 +4,17 @@
 
 <div align="center">
 
-<img
-  src="[https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:06152B,70:003B5C,100:00E5FF&text=MONISH%20S&fontColor=00E5FF&fontSize=68&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SECURITY%20ENGINEERING%20%7C%20REAL-WORLD%20BUILDING&descAlignY=62&descSize=16&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:06152B,70:003B5C,100:00E5FF&text=MONISH%20S&fontColor=00E5FF&fontSize=68&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SECURITY%20ENGINEERING%20%7C%20REAL-WORLD%20BUILDING&descAlignY=62&descSize=16&animation=twinkling)"
-  width="100%"
-  alt="MONISH S"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:06152B,70:003B5C,100:00E5FF&text=MONISH%20S&fontColor=00E5FF&fontSize=68&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SECURITY%20ENGINEERING%20%7C%20REAL-WORLD%20BUILDING&descAlignY=62&descSize=16&animation=twinkling" width="100%" alt="MONISH S" />
 
 <br>
 
-<img
-  src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer+in+Progress;Security+Systems+Builder;SOC+%7C+DFIR+%7C+Cloud+Security+%7C+OSINT;Offensive+Mindset+%7C+Defensive+Engineering;Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Securing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer+in+Progress;Security+Systems+Builder;SOC+%7C+DFIR+%7C+Cloud+Security+%7C+OSINT;Offensive+Mindset+%7C+Defensive+Engineering;Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Securing)"
-  alt="Typing animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer+in+Progress;Security+Systems+Builder;SOC+%7C+DFIR+%7C+Cloud+Security+%7C+OSINT;Offensive+Mindset+%7C+Defensive+Engineering;Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Securing" alt="Typing animation" />
 
 <br><br>
 
-<a href="[https://github.com/monish0001000](https://github.com/monish0001000)">
-<img src="[https://komarev.com/ghpvc/?username=monish0001000&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=monish0001000&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS)" alt="Profile Views"/>
-</a>
-<a href="[https://github.com/monish0001000?tab=followers](https://github.com/monish0001000?tab=followers)">
-<img src="[https://img.shields.io/github/followers/monish0001000?style=for-the-badge&color=111827&labelColor=020617&label=FOLLOWERS](https://img.shields.io/github/followers/monish0001000?style=for-the-badge&color=111827&labelColor=020617&label=FOLLOWERS)" alt="Followers"/>
-</a>
-<a href="[https://github.com/monish0001000?tab=repositories](https://github.com/monish0001000?tab=repositories)">
-<img src="[https://img.shields.io/github/stars/monish0001000?style=for-the-badge&color=00E5FF&labelColor=020617&label=STARS](https://img.shields.io/github/stars/monish0001000?style=for-the-badge&color=00E5FF&labelColor=020617&label=STARS)" alt="Stars"/>
-</a>
+<a href="https://github.com/monish0001000"><img src="https://komarev.com/ghpvc/?username=monish0001000&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+<a href="https://github.com/monish0001000?tab=followers"><img src="https://img.shields.io/github/followers/monish0001000?style=for-the-badge&color=111827&labelColor=020617&label=FOLLOWERS" alt="Followers" /></a>
+<a href="https://github.com/monish0001000?tab=repositories"><img src="https://img.shields.io/github/stars/monish0001000?style=for-the-badge&color=00E5FF&labelColor=020617&label=STARS" alt="Stars" /></a>
 
 <br><br>
 
@@ -131,14 +118,14 @@
 ## ⚡ $ ./profile --focus
 
 <div align="center">
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🛡️_SECURITY_ENGINEERING-020617?style=for-the-badge&labelColor=020617&color=00E5FF"/>
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🚨_SOC_&_THREAT_DETECTION-020617?style=for-the-badge&labelColor=020617&color=00B8D4"/>
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🌐_WEB_&_NETWORK_SECURITY-020617?style=for-the-badge&labelColor=020617&color=0097A7"/>
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)☁️_CLOUD_&_IAM_SECURITY-020617?style=for-the-badge&labelColor=020617&color=0288D1"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_SECURITY_ENGINEERING-020617?style=for-the-badge&labelColor=020617&color=00E5FF" alt="Security Engineering" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%A8_SOC_%26_THREAT_DETECTION-020617?style=for-the-badge&labelColor=020617&color=00B8D4" alt="SOC and Threat Detection" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_WEB_%26_NETWORK_SECURITY-020617?style=for-the-badge&labelColor=020617&color=0097A7" alt="Web and Network Security" />
+  <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_CLOUD_%26_IAM_SECURITY-020617?style=for-the-badge&labelColor=020617&color=0288D1" alt="Cloud and IAM Security" />
   <br><br>
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🔎_DFIR_&_OSINT-020617?style=for-the-badge&labelColor=020617&color=1976D2"/>
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🧪_CTF_&_SECURITY_RESEARCH-020617?style=for-the-badge&labelColor=020617&color=3949AB"/>
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🤖_AI_ASSISTED_SECURITY-020617?style=for-the-badge&labelColor=020617&color=5E35B1"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%8E_DFIR_%26_OSINT-020617?style=for-the-badge&labelColor=020617&color=1976D2" alt="DFIR and OSINT" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AA_CTF_%26_SECURITY_RESEARCH-020617?style=for-the-badge&labelColor=020617&color=3949AB" alt="CTF and Security Research" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_AI_ASSISTED_SECURITY-020617?style=for-the-badge&labelColor=020617&color=5E35B1" alt="AI Assisted Security" />
 </div>
 
 ---
@@ -247,17 +234,17 @@
 <div align="center">
 
 <h3>👨‍💻 Languages</h3>
-<img src="[https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,bash,sql&theme=dark](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,bash,sql&theme=dark)" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,bash,sql&theme=dark" alt="Languages" />
 
 <br><br>
 
 <h3>🌐 Development</h3>
-<img src="[https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs,fastapi&theme=dark](https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs,fastapi&theme=dark)" alt="Development"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs,fastapi&theme=dark" alt="Development" />
 
 <br><br>
 
 <h3>☁️ Infrastructure &amp; Security</h3>
-<img src="[https://skillicons.dev/icons?i=linux,docker,git,github,redis,postgres,mysql,aws,azure&theme=dark](https://skillicons.dev/icons?i=linux,docker,git,github,redis,postgres,mysql,aws,azure&theme=dark)" alt="Infrastructure"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,redis,postgres,mysql,aws,azure&theme=dark" alt="Infrastructure" />
 
 </div>
 
@@ -278,8 +265,8 @@
 <p><strong>Stack:</strong><br>React · TypeScript · FastAPI · Python · WebSockets · Redis · MITRE ATT&amp;CK · NetworkX</p>
 
 <br>
-<a href="[https://github.com/monish0001000/Sentinel_SOC](https://github.com/monish0001000/Sentinel_SOC)">
-<img src="[https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black](https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black)" alt="View Project"/>
+<a href="https://github.com/monish0001000/Sentinel_SOC">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="View Project" />
 </a>
 
 </td>
@@ -293,7 +280,7 @@
 <p><strong>Concepts:</strong><br>Root of Trust · mTLS · Physical Monitoring · Anomaly Detection</p>
 
 <br>
-<img src="[https://img.shields.io/badge/RESEARCH_PROJECT-020617?style=for-the-badge&color=00E5FF](https://img.shields.io/badge/RESEARCH_PROJECT-020617?style=for-the-badge&color=00E5FF)" alt="Research Project"/>
+<img src="https://img.shields.io/badge/RESEARCH_PROJECT-020617?style=for-the-badge&color=00E5FF" alt="Research Project" />
 
 </td>
 </tr>
@@ -390,24 +377,12 @@
 ## 📊 $ ./github --analytics
 
 <div align="center">
-<img
-  src="[https://github-readme-stats.vercel.app/api?username=monish0001000&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=E2E8F0](https://github-readme-stats.vercel.app/api?username=monish0001000&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=E2E8F0)"
-  height="180"
-  alt="GitHub statistics"
-/>
-<img
-  src="[https://github-readme-stats.vercel.app/api/top-langs/?username=monish0001000&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=E2E8F0](https://github-readme-stats.vercel.app/api/top-langs/?username=monish0001000&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=E2E8F0)"
-  height="180"
-  alt="Top languages"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=monish0001000&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=E2E8F0" height="180" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish0001000&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=E2E8F0" height="180" alt="Top languages" />
 
 <br><br>
 
-<img
-  src="[https://streak-stats.demolab.com?user=monish0001000&theme=dark&hide_border=true&background=020617&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E2E8F0&dates=64748B](https://streak-stats.demolab.com?user=monish0001000&theme=dark&hide_border=true&background=020617&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E2E8F0&dates=64748B)"
-  width="75%"
-  alt="GitHub streak"
-/>
+<img src="https://streak-stats.demolab.com?user=monish0001000&theme=dark&hide_border=true&background=020617&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E2E8F0&dates=64748B" width="75%" alt="GitHub streak" />
 </div>
 
 ---
@@ -415,11 +390,7 @@
 ## 📈 $ git log --activity
 
 <div align="center">
-<img
-  src="[https://github-readme-activity-graph.vercel.app/graph?username=monish0001000&bg_color=020617&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=monish0001000&bg_color=020617&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true)"
-  width="95%"
-  alt="Contribution activity graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=monish0001000&bg_color=020617&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
 </div>
 
 ---
@@ -427,10 +398,7 @@
 ## 🐍 $ ./contributions --visualize
 
 <div align="center">
-<img
-  src="[https://raw.githubusercontent.com/monish0001000/monish0001000/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/monish0001000/monish0001000/output/github-contribution-grid-snake-dark.svg)"
-  alt="GitHub contribution snake"
-/>
+<img src="https://raw.githubusercontent.com/monish0001000/monish0001000/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 </div>
 
 ---
@@ -438,11 +406,7 @@
 ## 🏆 $ ./achievements
 
 <div align="center">
-<img
-  src="[https://github-profile-trophy.vercel.app/?username=monish0001000&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1](https://github-profile-trophy.vercel.app/?username=monish0001000&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1)"
-  width="95%"
-  alt="GitHub trophies"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=monish0001000&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub trophies" />
 </div>
 
 ---
@@ -522,14 +486,14 @@
 ## 🌐 $ ping monish
 
 <div align="center">
-  <a href="[https://github.com/monish0001000](https://github.com/monish0001000)">
-    <img src="[https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub"/>
+  <a href="https://github.com/monish0001000">
+    <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="[https://www.linkedin.com/in/monish-srm/](https://www.linkedin.com/in/monish-srm/)">
-    <img src="[https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=00E5FF](https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=00E5FF)" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/monish-srm/">
+    <img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" />
   </a>
-  <a href="[https://instagram.com/monix.srm](https://instagram.com/monix.srm)">
-    <img src="[https://img.shields.io/badge/INSTAGRAM-020617?style=for-the-badge&logo=instagram&logoColor=00E5FF](https://img.shields.io/badge/INSTAGRAM-020617?style=for-the-badge&logo=instagram&logoColor=00E5FF)" alt="Instagram"/>
+  <a href="https://instagram.com/monix.srm">
+    <img src="https://img.shields.io/badge/INSTAGRAM-020617?style=for-the-badge&logo=instagram&logoColor=00E5FF" alt="Instagram" />
   </a>
 
   <br><br>
@@ -541,18 +505,11 @@
 
 <div align="center">
 
-<img
-  src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Keep+Learning.;Keep+Building.;Keep+Breaking.;Keep+Securing.;The+journey+never+stops](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Keep+Learning.;Keep+Building.;Keep+Breaking.;Keep+Securing.;The+journey+never+stops)."
-  alt="Closing animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Keep+Learning.;Keep+Building.;Keep+Breaking.;Keep+Securing.;The+journey+never+stops." alt="Closing animation" />
 
 <br><br>
 
-<img
-  src="[https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E5FF,40:003B5C,70:06152B,100:020617&section=footer&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E5FF,40:003B5C,70:06152B,100:020617&section=footer&animation=twinkling)"
-  width="100%"
-  alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E5FF,40:003B5C,70:06152B,100:020617&section=footer&animation=twinkling" width="100%" alt="Footer" />
 
 </div>
 
