@@ -297,22 +297,28 @@
 </td>
 <td width="50%" align="left" valign="top">
 
-<h3>🔎 Security Research</h3>
+<h3>🔎 Security Research &amp; Labs</h3>
 <p><strong>Learn → Test → Understand</strong></p>
 <p>Exploring practical cybersecurity through:</p>
 <ul>
   <li>Web vulnerabilities</li>
   <li>Network security</li>
   <li>OSINT &amp; reconnaissance</li>
-  <li>CTF challenges</li>
-  <li>Threat detection</li>
-  <li>Security automation</li>
+  <li>CTF challenges &amp; writeups</li>
+  <li>Threat detection &amp; automation</li>
 </ul>
-<p><em>Goal: transform concepts into working security knowledge.</em></p>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<p><b>Looking for more tools, prototypes, and practical labs?</b></p>
+<a href="https://github.com/monish0001000?tab=repositories">
+  <img src="https://img.shields.io/badge/📂_EXPLORE_ALL_REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Repositories" />
+</a>
+
 </div>
 
 ---
@@ -389,83 +395,6 @@
 
 ---
 
-## 📈 $ git log --activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=monish0001000&bg_color=020617&color=00E5FF&line=00E5FF&point=00E5FF&area=true&hide_border=true&custom_title=Contributions%20Timeline" width="95%" alt="Contribution activity graph" />
-</div>
-
----
-
-## 🏆 $ ./achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=monish0001000&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%" alt="GitHub trophies" />
-</div>
-
----
-
-## 🧭 $ ./roadmap
-
-<div align="center">
-<pre>
-┌───────────────┐
-│    START      │
-└───────┬───────┘
-        │
-        ▼
-┌──────────────────┐
-│   FUNDAMENTALS   │
-└────────┬─────────┘
-         │
- ┌───────┼───────┐
- ▼       ▼       ▼
-┌─────────┐ ┌─────────┐ ┌─────────┐
-│ WEB SEC │ │ NETWORK │ │  LINUX  │
-└────┬────┘ └────┬────┘ └────┬────┘
-     └───────┬───┘
-             ▼
-   ┌──────────────────┐
-   │   SOC / DFIR     │
-   └────────┬─────────┘
-            │
-   ┌────────┼────────┐
-   ▼        ▼        ▼
- CLOUD    OSINT     CTF
-   └────────┼────────┘
-            ▼
- ┌──────────────────────┐
- │ SECURITY ENGINEERING │
- └──────────┬───────────┘
-            │
-            ▼
-     ┌────────────┐
-     │   BUILD    │
-     └────────────┘
-</pre>
-</div>
-
----
-
-## 🎯 $ cat /goals
-
-<div align="center">
-<table width="85%">
-<tr><td align="center" width="10%"><b>01</b></td><td>Build strong cybersecurity fundamentals</td></tr>
-<tr><td align="center"><b>02</b></td><td>Develop practical offensive security skills</td></tr>
-<tr><td align="center"><b>03</b></td><td>Develop strong defensive security capabilities</td></tr>
-<tr><td align="center"><b>04</b></td><td>Build production-oriented security projects</td></tr>
-<tr><td align="center"><b>05</b></td><td>Explore cloud and identity security</td></tr>
-<tr><td align="center"><b>06</b></td><td>Strengthen SOC and detection engineering skills</td></tr>
-<tr><td align="center"><b>07</b></td><td>Participate in CTFs and security challenges</td></tr>
-<tr><td align="center"><b>08</b></td><td>Explore emerging cybersecurity technologies</td></tr>
-<tr><td align="center"><b>09</b></td><td>Contribute to the cybersecurity community</td></tr>
-<tr><td align="center"><b>10</b></td><td>Build technology that solves real problems</td></tr>
-</table>
-</div>
-
----
-
 ## 💭 $ cat /philosophy
 
 <div align="center">
@@ -480,9 +409,6 @@
 ## 🌐 $ ping monish
 
 <div align="center">
-  <a href="https://github.com/monish0001000">
-    <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/monish-srm/">
     <img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" />
   </a>
