@@ -377,12 +377,14 @@
 ## 📊 $ ./github --analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=monish0001000&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=E2E8F0" height="180" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish0001000&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=E2E8F0" height="180" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=monish0001000&theme=dark&hide_border=true&background=020617&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E2E8F0&dates=64748B" width="85%" alt="GitHub streak" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=monish0001000&theme=dark&hide_border=true&background=020617&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E2E8F0&dates=64748B" width="75%" alt="GitHub streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=monish0001000&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=E2E8F0&rank_icon=github&include_all_commits=true" height="175" alt="GitHub stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=monish0001000&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=E2E8F0" height="175" alt="Top languages" />
+
 </div>
 
 ---
@@ -390,15 +392,7 @@
 ## 📈 $ git log --activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=monish0001000&bg_color=020617&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
-</div>
-
----
-
-## 🐍 $ ./contributions --visualize
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/monish0001000/monish0001000/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=monish0001000&bg_color=020617&color=00E5FF&line=00E5FF&point=00E5FF&area=true&hide_border=true&custom_title=Contributions%20Timeline" width="95%" alt="Contribution activity graph" />
 </div>
 
 ---
@@ -406,7 +400,7 @@
 ## 🏆 $ ./achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=monish0001000&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=monish0001000&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%" alt="GitHub trophies" />
 </div>
 
 ---
